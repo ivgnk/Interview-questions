@@ -9,8 +9,12 @@ https://github.com/DEBAGanov/interview_questions/blob/main/400%20вопросо�
 Вопросы для подготовки к Python Developer интервью
 https://github.com/yakimka/python_interview_questions
 
+https://github.com/BitPunchZ/Leetcode-in-python-50-Algorithms-Coding-Interview-Question
+
+https://github.com/markdrrr/interview_questions_python_juniors
 
 
 **Data science**
 
 https://github.com/khanhnamle1994/cracking-the-data-science-interview
+https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
