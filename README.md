@@ -7,5 +7,5 @@ https://github.com/DEBAGanov/interview_questions/blob/main/400%20вопросо�
 Вопросы для подготовки к Python Developer интервью
 https://github.com/yakimka/python_interview_questions
 
-2) Data science
+3) Data science
 https://github.com/khanhnamle1994/cracking-the-data-science-interview
