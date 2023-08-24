@@ -10,6 +10,7 @@ https://github.com/DEBAGanov/interview_questions/blob/main/400%20вопросо�
 https://github.com/yakimka/python_interview_questions
 
 
+
 **Data science**
 
 https://github.com/khanhnamle1994/cracking-the-data-science-interview
