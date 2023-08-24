@@ -1,3 +1,5 @@
+https://github.com/search?q=python%20interview%20questions&type=repositories (after 1 page)
+
 # Interview-questions
 Interview questions
 
@@ -12,6 +14,10 @@ https://github.com/yakimka/python_interview_questions
 https://github.com/BitPunchZ/Leetcode-in-python-50-Algorithms-Coding-Interview-Question
 
 https://github.com/markdrrr/interview_questions_python_juniors
+
+Cracking the Coding Interview (CTCI)
+https://github.com/StBogdan/CTCI_python
+
 
 
 **Data science**
