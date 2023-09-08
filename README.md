@@ -18,9 +18,14 @@ https://github.com/markdrrr/interview_questions_python_juniors
 Cracking the Coding Interview (CTCI)
 https://github.com/StBogdan/CTCI_python
 
+2021 Как проходит собеседование Python-разработчика: вопросы для джуниоров и мидлов
+https://habr.com/ru/companies/yandex_praktikum/articles/555028/
 
 
 **Data science**
 
 https://github.com/khanhnamle1994/cracking-the-data-science-interview
 https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
+
+2020 Полный список вопросов с собеседований по Python для дата-сайентистов и инженеров
+https://habr.com/ru/companies/vk/articles/506824/
